@@ -29,7 +29,7 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
 3. Barber - BRML
    - downloadable book pdf [brml](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - ref as requested by the author, or direct latest as of now [03-2025 version](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/180325.pdf)
    - BRML toolbox (or toolkit) - see the software link on author's book web page
-   - SLM covers chapters 10, 14, 16
+   - SLM AAI module covers chapters 10, 14, 16
      - 10 is Naive Bayes
      - 14 is Nearest neighbour
      - 16 is supervised linear dimension reduction
@@ -37,15 +37,15 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
   - The supporting example Matlab code is not strighforward, user effort required needs a good review (tbd)
 
 4. ISL - Introduction to Statistical Learning
-   - this is a poor-man's verion of the ESL by Hastie Tibshirani from 2001 (or applied version stripped of some rigour and theory)
-   - PDFs of the python version and R version of the book - [statlearning.com](https://www.statlearning.com/)
+   - this is a "poor-man's" subset of ESL by Hastie Tibshirani from 2001 (or applied version - stripped of some rigour and theory)
+   - PDFs of both the python and R versions of the book are at [statlearning.com](https://www.statlearning.com/)
    - code (python and R) - [ISLP_labs on github](https://github.com/intro-stat-learning/ISLP_labs)
-   - chapters covered by the SLM module are 3,4,8
+   - SLM AAI module covers chapters 3,4,8
      - 3 is Linear Regression
      - 4 is Classification
      - 8 is Tree-Based Methods
 
 5. Bayesian Networks and Decision Graphs, Jensen & Nielsen, 2007
 
-   - not on the course reading list - this is my extra basic reading
+   - not on the course reading list - my extra basic reading - and very good to read in order to understand parts of BRML
    - pdf online [in a pdf from Springer](https://link.springer.com/book/10.1007/978-0-387-68282-2) (use lib access)
