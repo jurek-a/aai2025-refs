@@ -10,11 +10,11 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
 
 1. Schaum - probability review
    - Some worked out exercises videos are in an iOS or Android app from the publishers [schaums.com](https://www.mheducation.com/highered/campaigns/schaums-outlines.html) - the book is under Mathematics section, the videos of 2-3 worked exercies per chapter for c 1-7, then 1 per 8-10, but none for 11
-   - Chapter 11 is a good summary of Bayesian methods, and nice if you like reading the book from the end - I found this one useful
-   - This book contains basic probability and statistics material. It is good as a reference and knowledge refresher. Lots of exercises - but there is no literature / references section - again - basic material in a concise form as a foundation, don't expect answers to "why" questions - it is 100 years of stats theory foundametals summarized on 400 pages
-
+   - Chapter 11 is a summary of Bayesian methods
+   - Basic probability and statistics summary in a concise form, don't expect answers to the "why" questions - it is 100 years of stats theory foundametals summarized on 400 pages. Good as a reference. Lots of exercises, but there is no literature / references section.
+     
 2. Murphy - PML
-   - pdf downloadable
+   - downloadable book pdf
      - the 2012 version (matlab) - [pml 2012 on EBook Central - with lib login](https://ebookcentral.proquest.com/lib/cranfield/detail.action?docID=3339490)
      - the 2025 version (python) - [pml-book](https://probml.github.io/pml-book/book1.html)
    - code in Matlab - the 2012 edition -- [PMTK](https://github.com/probml/pmtk3)
@@ -24,7 +24,7 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
      - 3 is Generative models for discrete data
      - 4 is Gaussian models
      - 7 is Linear regression
-  - note that there are other related books by K. Murpy, great author and the way of writing IMHO
+  - note that there are other related books by K. Murpy
 
 3. Barber - BRML
    - downloadable book pdf [brml](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - ref as requested by the author, or direct latest as of now [03-2025 version](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/180325.pdf)
@@ -33,8 +33,8 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
      - 10 is Naive Bayes
      - 14 is Nearest neighbour
      - 16 is supervised linear dimension reduction
-  - This book contains a ton of references, lots of exercises and examples. Computer scientist or physicists in nature writing about foundations with lots of glossing over detail, and that's maybe just what you need.
-  - The supporting example Matlab code is not very strighforward, expect effort from the user and needs a good review (tbd)
+  - This book contains a ton of references, lots of exercises and examples. Computer scientist or physicists in nature writing about foundations glossing over detail, and that's maybe just what you need but in order to understand Barber's regurgirated summaries of works of other and how things really work it is actually bettter to read referenced works - for me it was necessary for this "to stick"
+  - The supporting example Matlab code is not strighforward, user effort required needs a good review (tbd)
 
 4. ISL - Introduction to Statistical Learning
    - this is a poor-man's verion of the ESL by Hastie Tibshirani from 2001 (or applied version stripped of some rigour and theory)
