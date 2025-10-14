@@ -49,3 +49,8 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
 
    - not on the course reading list - my extra basic reading - and very good to read in order to understand parts of BRML
    - pdf online [in a pdf from Springer](https://link.springer.com/book/10.1007/978-0-387-68282-2) (use lib access)
+  
+# Deeper dive into particula subjects
+## Gausian models
+
+- [Gaussian Processes for Machine Learning, Carl Edward Rasmussen and Christopher K. I. Williams, 2006](https://gaussianprocess.org/gpml/) - chapters PDFs for download 
