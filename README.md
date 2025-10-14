@@ -55,6 +55,6 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
   
 ## Deeper dive into particular subjects
 
-## 1. Gausian models for SML
+## 1. Gausian models for SLM
 
 - Rasmussen, Williams GPML - [Gaussian Processes for Machine Learning, Carl Edward Rasmussen and Christopher K. I. Williams, 2006](https://gaussianprocess.org/gpml/) - chapters PDFs for download 
