@@ -1,6 +1,8 @@
-# This is AAI MSc at Cranfield 2025 (aaimc-read-code-refs) repo of external references of my selected modules reading lists
+# This is my (JG) list of references for AAI MSc at Cranfield 2025 (aaimc-read-code-refs) 
 
-[ use at your own risk, this page is a list of references mentioned in the course and is NOT an academic material, comments may include my private sentiments, puns or jokes ] 
+This repository main readme and additional documents contain external references of my selected modules reading lists : 1. SLM, 2. ... etc (will be updated with time)
+
+Note - use at your own risk, this page is a list of references mentioned in the course and is NOT an academic material, comments may include my private sentiments, puns or jokes ] 
 
 See the library managed reading lists as primary source of course material, of course. This readme contains just my notes, for private use and to find quickly author's PDFs and github reops and NOT following the referencing guidelines. In this summary I simply go one level deeper thant the published references in the reading list, verify links and code as of today.
 
@@ -24,7 +26,7 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
      - 3 is Generative models for discrete data
      - 4 is Gaussian models
      - 7 is Linear regression
-  - note that there are other related books by K. Murpy
+  - note that there are other related books by K. Murpy and the current latest published PML reference has extra chapters and chapter numbers shifted (copared to lecture notes slides) and also code in 2012 is matlab and in 2022 is python - here is a quick [PML book 2012-2022 chapters map](murphy-pml-chapters-map.md)
 
 3. Barber - BRML
    - downloadable book pdf [brml](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - ref as requested by the author, or direct latest as of now [03-2025 version](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/180325.pdf)
@@ -32,7 +34,7 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
    - SLM AAI module covers chapters 10, 14, 16
      - 10 is Naive Bayes
      - 14 is Nearest neighbour
-     - 16 is supervised linear dimension reduction
+     - 16 is Supervised linear dimension reduction
   - This book contains a ton of references, lots of exercises and examples. Computer scientist or physicists in nature writing about foundations glossing over detail, and that's maybe just what you need but in order to understand Barber's regurgirated summaries of works of other and how things really work it is actually bettter to read referenced works - for me it was necessary for this "to stick"
   - The supporting example Matlab code is not strighforward, user effort required needs a good review (tbd)
 
@@ -50,8 +52,8 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
    - not on the course reading list - my extra basic reading - and very good to read in order to understand parts of BRML
    - pdf online [in a pdf from Springer](https://link.springer.com/book/10.1007/978-0-387-68282-2) (use lib access)
   
-# Deeper dive into particular subjects
+## Deeper dive into particular subjects
 
-## 1. Gausian models
+## 1. Gausian models for SML
 
-- [Gaussian Processes for Machine Learning, Carl Edward Rasmussen and Christopher K. I. Williams, 2006](https://gaussianprocess.org/gpml/) - chapters PDFs for download 
+- Rasmussen, Williams GPML - [Gaussian Processes for Machine Learning, Carl Edward Rasmussen and Christopher K. I. Williams, 2006](https://gaussianprocess.org/gpml/) - chapters PDFs for download 
