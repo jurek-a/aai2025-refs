@@ -1,8 +1,9 @@
 # This is my (JG) list of references for AAI MSc at Cranfield 2025 (aaimc-read-code-refs) 
 
-This repository main readme and additional documents contain external references of my selected modules reading lists : 1. SLM, 2. ... etc (will be updated with time)
+This repository main readme and additional documents contain external references of my selected modules reading lists : 1. SLM, 2. ... etc (will be updated with time).
+I migt convert the repo to a gist later (this ref address is guaranteed to exist in 2025 only) and that will be if no need for any specific standard full git repo operations will emerge.
 
-Note - use at your own risk, this page is a list of references mentioned in the course and is NOT an academic material, comments may include my private sentiments, puns or jokes ] 
+Note - use at your own risk, this page is a list of references mentioned in the course and is NOT an academic material, comments may include my private sentiments, puns or jokes. 
 
 See the library managed reading lists as primary source of course material, of course. This readme contains just my notes, for private use and to find quickly author's PDFs and github reops and NOT following the referencing guidelines. In this summary I simply go one level deeper thant the published references in the reading list, verify links and code as of today.
 
