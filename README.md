@@ -1,4 +1,4 @@
-# aaimc-read-code-refs - AAI MSc at Cranfield 2025 - external references of the reading lists
+# This is AAI MSc at Cranfield 2025 (aaimc-read-code-refs) repo of external references of my selected modules reading lists
 
 [ use at your own risk, this page is a list of references mentioned in the course and is NOT an academic material, comments may include my private sentiments, puns or jokes ] 
 
