@@ -5,7 +5,7 @@ I migt convert the repo to a gist later (this ref address is guaranteed to exist
 
 Note - use at your own risk, this page is a list of references mentioned in the course and is NOT an academic material, comments may include my private sentiments, puns or jokes. 
 
-See the library managed reading lists as primary source of course material, of course. This readme contains just my notes, for private use and to find quickly author's PDFs and github reops and NOT following the referencing guidelines. In this summary I simply go one level deeper thant the published references in the reading list, verify links and code as of today.
+See the library managed reading lists as primary source of course material, of course. This readme contains just my notes, for private use and to find quickly author's PDFs and github reops and NOT following the referencing guidelines. In this summary I simply go one level deeper than in the course's published reading lists references, and I have alos verified the links and code as I had to access them myself.
 
 ## M01-SLM : Statistical Learning Methods - W02 - 13 OCT 2025
 
@@ -14,7 +14,7 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
 1. Schaum - probability review
    - Some worked out exercises videos are in an iOS or Android app from the publishers [schaums.com](https://www.mheducation.com/highered/campaigns/schaums-outlines.html) - the book is under Mathematics section, the videos of 2-3 worked exercies per chapter for c 1-7, then 1 per 8-10, but none for 11
    - Chapter 11 is a summary of Bayesian methods
-   - Basic probability and statistics summary in a concise form, don't expect answers to the "why" questions - it is 100 years of stats theory foundametals summarized on 400 pages. Good as a reference. Lots of exercises, but there is no literature / references section.
+   - Basic probability and statistics summary in a concise form, don't expect answers to the "why" questions - it is 100 years of stats theory foundametals summarized in 400 pages. Good as a reference. Lots of exercises, but there is no literature / references section.
      
 2. Murphy - PML
    - downloadable book pdf
