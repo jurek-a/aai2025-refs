@@ -1,6 +1,6 @@
 # JGs enhanced references list of AAI MSc course at Cranfield 2025
 
-Welcome to the AAI books jungle. This repository's main README.md and additional documents are to provide overview and links to the external references mentioned in the lectures and reading lists of my AAI selected modules.
+Welcome to the AAI books jungle. This repository's main README.md and additional documents link to external references mentioned in the lectures and reading lists of the modules in the AAI MSc course which I have selected to study in 2025.
 
 Notes : I hope this is helpful to the more inquisitive but .. use at your own risk !  
 - This repo is guaranteed to exist (only) until the end of the calendar year 2025 at its primary address [https://github.com/jurek-a/aai2025-refs](https://github.com/jurek-a/aai2025-refs). In 2026 those literature notes repo might be deleted, or converted to a gist, or disappear. We will see.
