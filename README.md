@@ -57,4 +57,7 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
 
 ## 1. Gausian models for SLM
 
-- Rasmussen, Williams GPML - [Gaussian Processes for Machine Learning, Carl Edward Rasmussen and Christopher K. I. Williams, 2006](https://gaussianprocess.org/gpml/) - chapters PDFs for download 
+- Rasmussen, Williams GPML - [Gaussian Processes for Machine Learning, Carl Edward Rasmussen and Christopher K. I. Williams, 2006](https://gaussianprocess.org/gpml/) - chapters PDFs for download
+## 2. Bayesian Networks
+
+- Code of Bayes Net Toolbox [bayesnet.github.io - Usage](https://bayesnet.github.io/bnt/docs/usage.html#basics) , source [github.com/bayesnet/bnt](https://github.com/bayesnet/bnt)
