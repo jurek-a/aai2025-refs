@@ -1,6 +1,6 @@
-# JGs ist of references (reading material and code repos) from AAI MSc course at Cranfield 2025
+# JGs enhanced references list of AAI MSc course at Cranfield 2025
 
-Welcome to the AAI books jungle. This repository's main README.md and additional documents provide overview and links to external references mentioned in the lectures and reading lists of my AAI selected modules.
+Welcome to the AAI books jungle. This repository's main README.md and additional documents are to provide overview and links to the external references mentioned in the lectures and reading lists of my AAI selected modules.
 
 Notes : I hope this is helpful to the more inquisitive but .. use at your own risk !  
 - This repo is guaranteed to exist (only) until the end of the calendar year 2025 at its primary address [https://github.com/jurek-a/aai2025-refs](https://github.com/jurek-a/aai2025-refs). In 2026 those literature notes repo might be deleted, or converted to a gist, or disappear. We will see.
@@ -25,14 +25,15 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
      - the 2025 edition (code converted to python) - [pml-book](https://probml.github.io/pml-book/book1.html) - note that in this edition some chapters have been added and some removed !
    - code in Matlab - the 2012 (book0) edition -- [PMTK](https://github.com/probml/pmtk3)
    - code in Python - the 2022 (book1) edition - [pyprobml](https://github.com/probml/pyprobml)
-   - SLM covers chapters 2, 3, 4, 7, 14, 15, 18 (of the orginal pml 2012 edition)
+   - SLM covers chapters 2, 3, 4, 7, 14, 15, 17, 18 of the orginal pml (2012 edition, aka book0)
      - 2 is Probability
      - 3 is Generative models for discrete data
      - 4 is Gaussian models
      - 7 is Linear regression
      - 14 is Kernels
      - 15 is Gaussian processes
-     - 18 is (EKF, UKF)
+     - 17 is Markov and hidden Markov models
+     - 18 is State Space Models (KFs, e.g. EKF, UKF)
  
 3. Barber - BRML
    - downloadable book pdf [brml](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - ref as requested by the author, or direct latest as of now [03-2025 version](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/180325.pdf)
