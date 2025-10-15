@@ -27,7 +27,7 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
      - 3 is Generative models for discrete data
      - 4 is Gaussian models
      - 7 is Linear regression
-  - note that there are other related books by K. Murpy and the current latest published PML reference has extra chapters and chapter numbers shifted (copared to lecture notes slides) and also code in 2012 is matlab and in 2022 is python - here is a quick [PML book 2012-2022 chapters map](murphy-pml-chapters-map.md)
+  - Note that (a the moment) there are three published PML books by K. Murpy - book0 (2012), book1 (intro - updated conent of book0, 2022, some chapters added some removed), book2 (advanced topics - additional topics and some update chapters of book0 which removed from boo1, as too advanced I suppose). The example code in book0 (2012) is in matlab and in 2022 is python - here is a quick [PML book 2012-2022 chapters map](murphy-pml-chapters-map.md)
 
 3. Barber - BRML
    - downloadable book pdf [brml](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) - ref as requested by the author, or direct latest as of now [03-2025 version](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/180325.pdf)
