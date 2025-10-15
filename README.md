@@ -2,7 +2,7 @@
 
 Welcome to the AAI books jungle. This repository's main README.md and additional documents provide overview and links to external references mentioned in the lectures and reading lists of my AAI selected modules.
 
-Notes : Hope this is helpful to more inquisitive but use it at your own risk !  
+Notes : I hope this is helpful to the more inquisitive but .. use at your own risk !  
 - This repo is guaranteed to exist (only) until the end of the calendar year 2025 at its primary address [https://github.com/jurek-a/aai2025-refs](https://github.com/jurek-a/aai2025-refs). In 2026 those literature notes repo might be deleted, or converted to a gist, or disappear. We will see.
 - This is NOT intended to be academic material, just a quick way to find mentioned books, chapters and articles, my comments may include my private sentiments, puns or jokes and book references are not necessarily in the mandated referencing style.
 - See the library managed reading lists as primary source of course material, of course. 
@@ -31,7 +31,7 @@ Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-
      - 4 is Gaussian models
      - 7 is Linear regression
      - 14 is Kernels
-     - 15 is 
+     - 15 is Gaussian processes
      - 18 is (EKF, UKF)
  
 3. Barber - BRML
