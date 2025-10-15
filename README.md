@@ -1,13 +1,14 @@
-# This is my (JG) list of references for AAI MSc at Cranfield 2025 (aaimc-read-code-refs) 
+# JGs ist of references (reading material and code repos) from AAI MSc course at Cranfield 2025
 
-This repository main readme and additional documents contain external references of my selected modules reading lists : 1. SLM, 2. ... etc (will be updated with time).
-I migt convert the repo to a gist later (this ref address is guaranteed to exist in 2025 only) and that will be if no need for any specific standard full git repo operations will emerge.
+This repository' main README.md and additional documents provide overview and links to external references mentioned in the lectures and reading lists of my selected modules.
 
-Note - use at your own risk, this page is a list of references mentioned in the course and is NOT an academic material, comments may include my private sentiments, puns or jokes. 
+Notes : Hope this is helpful to more inquisitive but use it at your own risk !  
+- This repo is guaranteed to exist until the end of calendar year 2025 at its primary address [https://github.com/jurek-a/aai25-refs](https://github.com/jurek-a/aai25-refs). In 2026 the repo might be deleted, or converted to a gist, or disappear. We will see.
+- NOT intended to be academic material, just a quick way to find mentioned books, chapters and articles, my comments may include my private sentiments, puns or jokes and book references are not necessarily in the mandated referencing style.
+- See the library managed reading lists as primary source of course material, of course. 
+- I often go one level deeper than in the course's published reading lists references, and I have alos verified the links and code as I had update this repo onnly after I have accessed each resource myself.
 
-See the library managed reading lists as primary source of course material, of course. This readme contains just my notes, for private use and to find quickly author's PDFs and github reops and NOT following the referencing guidelines. In this summary I simply go one level deeper than in the course's published reading lists references, and I have alos verified the links and code as I had to access them myself.
-
-## M01-SLM : Statistical Learning Methods - W02 - 13 OCT 2025
+## M01 : SLM : Statistical Learning Methods - W02 - 13 OCT 2025
 
 Libary reading list [N-AAI-SLM](https://rl.talis.com/3/cranfield/lists/6600DDA5-EB4C-70FA-0D43-D8F665F9BC18.html?lang=en-GB)
 
