@@ -3,7 +3,7 @@
 Welcome to the AAI books jungle. This repository's main README.md and additional documents link to external references mentioned in the lectures and reading lists of the modules in the AAI MSc course which I have selected to study in 2025.
 
 Notes : I hope this is helpful to the more inquisitive but .. use at your own risk !  
-- This repo is guaranteed to exist (only) until the end of the calendar year 2025 at its primary address [https://github.com/jurek-a/aai2025-refs](https://github.com/jurek-a/aai2025-refs). In 2026 those literature notes repo might be deleted, or converted to a gist, or disappear. We will see.
+- This repo is guaranteed to exist (only) until the end of calendar year 2025. Its primary url is [https://github.com/jurek-a/aai2025-refs](https://github.com/jurek-a/aai2025-refs). In 2026 those literature notes repo might be deleted, or converted to a gist, or disappear. We will see.
 - This is NOT intended to be academic material, just a quick way to find mentioned books, chapters and articles, my comments may include my private sentiments, puns or jokes and book references are not necessarily in the mandated referencing style.
 - See the library managed reading lists as primary source of course material, of course. 
 - I often go one level deeper than in the course's published reading lists references, trying to reach sources and fully understand content, and the links to pdfs and code have been verified as I have added them here only after accessin each resource myself.
